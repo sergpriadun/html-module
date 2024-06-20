@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57658300-2279-45ea-849a-214e9e415972" name="Changes" comment="mathematics is done" />
+    <list default="true" id="57658300-2279-45ea-849a-214e9e415972" name="Changes" comment="mathematics is done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718817433494</updated>
       <workItem from="1718817434571" duration="845000" />
-      <workItem from="1718821959699" duration="5420000" />
+      <workItem from="1718821959699" duration="6619000" />
     </task>
     <task id="LOCAL-00001" summary="[homework]:1:done">
       <option name="closed" value="true" />
@@ -158,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718828079208</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="mathematics is done">
+      <option name="closed" value="true" />
+      <created>1718828924061</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718828924061</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
